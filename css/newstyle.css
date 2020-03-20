@@ -1,0 +1,115 @@
+
+.newclass{
+    background-image: url(../img/bermuda-triangle.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 1.2em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.bckgrdImg{
+    background-image: url(../img/container.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 70vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 1.2em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.crewmann{
+    background-image: url(../img/main-top-image.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 80vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 1.2em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.rig{
+    background-image: url(../img/a8716f10f2211664f6e82c52e2f5bd13.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 60vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 5em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.chandling{
+    background-image: url(../img/ShipChandling_main.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 60vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 5em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.leasing{
+    background-image: url(../img/7.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 60vh;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100vw;
+    color: white;
+    font: 5em bold italic;
+    padding: 2% 0% 2% 0%;
+    /* margin-left: -10 !important; */
+}
+
+.imgHolder {
+    margin-bottom: 3px;
+}
+
+.borderFrame {
+    border: 10px groove whitesmoke;
+    box-shadow: 10px;
+    padding: 2%;
+    height: 50vh;
+}
+
+#farers {
+    width: 100%; 
+    margin: 0 auto;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+@media (max-width: 900px) {
+    .newclass{
+        height: 100vh;
+        margin-bottom: 6vh;
+    }  
+}
